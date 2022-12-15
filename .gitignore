@@ -1,6 +1,5 @@
-/ChatwithCOE10.txt
-/chat_with_shaan.txt
+*.txt
 /__pycache__
 /.env
-/shaan.png
-/coe10.png
+*.png
+*.tff
